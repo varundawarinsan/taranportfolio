@@ -1,0 +1,9 @@
+body{
+    background-color: cyan;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    border-style: inset;
+    border-width: 2mm;
+    border-color: rgb(245, 66, 11);
+}
